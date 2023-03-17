@@ -1,8 +1,9 @@
 package is.hi.hbv202g.ass9.compositeLeafObservedByComposite;
 
-import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class PlusCompositeTest {
 
@@ -24,7 +25,7 @@ public class PlusCompositeTest {
 
         plusComposite.add(number2);
         assertEquals("A plus composite consisting only of leaf with value 2 should return 2",
-                1, plusComposite.getResult());
+                2, plusComposite.getResult());
     }
 
     @Test
