@@ -1,1 +1,1 @@
-![classdiagramass10.jpg](resources%2Fclassdiagramass10.jpg)
+![classdiagramass10.jpg](classdiagramass10.jpg)
