@@ -37,5 +37,5 @@ License
 
 Markdown
 
-- [Markdown file](src/site/markdown.md)
+- [Markdown file](src/site/markdown/markdown.md)
 
